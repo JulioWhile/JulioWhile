@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Julio Contreras.</h2>
 
-I'm a software engineer student specialized in JavaScript technologies (NodeJS, Express, Angular, React). I have experience in web applications connected to a API's REST systems.
+I'm a software engineer student specialized in JavaScript technologies (NodeJS, Express, Angular, React). I have experience in web applications connected to a API systems.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
