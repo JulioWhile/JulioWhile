@@ -22,14 +22,6 @@ I'm a software engineer student specialized in JavaScript technologies (NodeJS, 
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio%202019-0A1A2F?style=flat&logo=visual-studio-code&logoColor=8C69BF)
+  ![Webstorm](https://img.shields.io/badge/-Visual%20Studio%202019-0A1A2F?style=flat&logo=visual-studio-code&logoColor=8C69BF)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
-  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-- 🖥 &nbsp;Design:&nbsp;
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-
-<br/>
-
-<a href="https://github.com/jrgarciadev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliowhile&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
