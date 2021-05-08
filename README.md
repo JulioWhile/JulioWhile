@@ -7,7 +7,7 @@ I'm a software engineer student specialized in JavaScript technologies (NodeJS, 
 - 📱 &nbsp;Mobile:&nbsp;
   ![Ionic](https://img.shields.io/static/v1?style=for-the-badge&message=Ionic&color=3880FF&logo=Ionic&logoColor=FFFFFF&label=)
 - 🗄 &nbsp;Backend:&nbsp;
-- ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+  ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
   ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -23,6 +23,6 @@ I'm a software engineer student specialized in JavaScript technologies (NodeJS, 
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-  ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio%202019-0A1A2F?style=flat&logo=visual-studio-code&logoColor=8C69BF)
+  ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
   ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
   ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
