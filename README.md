@@ -33,4 +33,4 @@ I'm a passionate Data Engineer with a strong foundation in data processing and a
 <h3> 📫 &nbsp;Contact Me</h3>
 
 - Email:&nbsp;
-  [![Email](https://img.shields.io/badge/-youremail%40domain.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:julio.contreras0429@gmail.com.com)
+  [![Email](https://img.shields.io/badge/-julio.contreras0429%40gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:julio.contreras0429@gmail.com.com)
