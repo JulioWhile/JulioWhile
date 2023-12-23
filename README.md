@@ -6,9 +6,10 @@ I'm a passionate Data Engineer with a strong foundation in data processing and a
 
 - 🗄 &nbsp;Data Processing & Big Data:&nbsp;
   ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
-  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
+
 
 - 🛢 &nbsp;Database Management:&nbsp;
   ![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-1287B1?style=flat-square&logo=Apache-Cassandra&logoColor=white)
