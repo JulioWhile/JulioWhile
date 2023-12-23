@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Julio Contreras.</h2>
 
-I'm a passionate Data Engineer with a strong foundation in data processing and analysis. In my role, I specialize in using a variety of data engineering tools and technologies to build robust data pipelines, ensure data integrity, and support data-driven decision making.
+I'm a passionate Data Engineer with a strong foundation in data processing. In my role, I specialize in using a variety of data engineering tools and technologies to build robust data pipelines, ensure data integrity, and support data-driven decision making.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
