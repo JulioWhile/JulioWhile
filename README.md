@@ -31,6 +31,9 @@ I'm a passionate Data Engineer with a strong foundation in data processing. In m
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
+- 🚀 &nbsp;Data Extraction and Loading:&nbsp;
+  [![Meltano](https://img.shields.io/badge/-Meltano-000000?style=flat-square&logo=Meltano&logoColor=white)](https://docs.meltano.com/)
+
 <h3> 📫 &nbsp;Contact Me</h3>
 
 - Email:&nbsp;
