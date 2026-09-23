@@ -6,13 +6,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/julio-contreras-islas">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:julio.contreras0429@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=FF7A1A" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
 </a>&nbsp;
 <a href="https://github.com/JulioWhile">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF7A1A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" alt="GitHub" />
 </a>
 
 <samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
@@ -66,32 +66,32 @@ about.
 
 **☁️ Cloud**
 <br>
-<img src="https://img.shields.io/badge/GCP-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/BigQuery-181717?style=for-the-badge&logo=googlebigquery&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Cloud%20Run-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Cloud%20Functions-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Pub%2FSub-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Cloud%20Storage-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/GCP-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="GCP" />
+<img src="https://img.shields.io/badge/BigQuery-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="BigQuery" />
+<img src="https://img.shields.io/badge/Cloud%20Run-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Cloud Run" />
+<img src="https://img.shields.io/badge/Cloud%20Functions-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Cloud Functions" />
+<img src="https://img.shields.io/badge/Pub%2FSub-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Pub/Sub" />
+<img src="https://img.shields.io/badge/Cloud%20Storage-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Cloud Storage" />
 
 **🔄 Orchestration & Transformation**
 <br>
-<img src="https://img.shields.io/badge/Airflow-181717?style=for-the-badge&logo=apacheairflow&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Dataform-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Airflow-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Airflow" />
+<img src="https://img.shields.io/badge/Dataform-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Dataform" />
+<img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="FastAPI" />
 
 **🛢 Databases**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/AlloyDB-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Redis-181717?style=for-the-badge&logo=redis&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/AlloyDB-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="AlloyDB" />
+<img src="https://img.shields.io/badge/Redis-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Redis" />
 
 **⚙️ Code & Delivery**
 <br>
-<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=FF7A1A" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="SQL" />
+<img src="https://img.shields.io/badge/Bash-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Bash" />
+<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&labelColor=181717&color=FF7A1A" alt="GitHub Actions" />
 
 </div>
 
