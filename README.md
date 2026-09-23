@@ -1,55 +1,128 @@
-<h2> Welcome 👋 , I'm Julio Contreras.</h2>
+<!-- HEADER -->
+<div align="center">
 
-**Data Platform Engineer**
+<img src="./assets/header.svg" alt="Julio Contreras — Data Platform Engineer" width="100%">
 
-I work where data engineering meets platform engineering: designing pipelines, 
-contracts, and services that other teams can consume safely. My focus is on making 
-data flows **idempotent, observable, and self-serve** — from the SQLX model to the 
-API endpoint.
+<br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<a href="https://www.linkedin.com/in/TU_HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:julio.contreras0429@gmail.com">
+  <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>&nbsp;
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-- 🐍 &nbsp;Languages:&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
+</div>
 
-- ☁️ &nbsp;Cloud — GCP (primary):&nbsp;
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Cloud Scheduler](https://img.shields.io/badge/-Cloud%20Scheduler-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Cloud Composer](https://img.shields.io/badge/-Cloud%20Composer-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![AlloyDB](https://img.shields.io/badge/-AlloyDB-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Dataplex](https://img.shields.io/badge/-Dataplex-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-  ![Secret Manager](https://img.shields.io/badge/-Secret%20Manager-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+---
 
-- 🔄 &nbsp;Orchestration & Transformation:&nbsp;
-  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
-  ![Dataform](https://img.shields.io/badge/-Dataform-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+<!-- ABOUT ME -->
+### <samp>▸ About</samp>
 
-- 🛢 &nbsp;Data Stores:&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+<samp>
 
-- 🚀 &nbsp;Platform & DevOps:&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
-  ![Spinnaker](https://img.shields.io/badge/-Spinnaker-139BB4?style=flat-square&logo=Spinnaker&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+I'm a **Data Platform Engineer** based in Mexico.
 
-- 🧱 &nbsp;Architecture & Patterns:&nbsp;
-  Hexagonal architecture · Contract-first design · Event-driven pipelines · 
-  Idempotent writes · Data contracts · Observability
+I work on the infrastructure and services that let data teams move fast
+without breaking things: pipelines, orchestration, storage layers, and the
+glue between them. Most of my day-to-day lives on **GCP**.
 
+I care about systems that are **reliable, easy to operate, and simple to
+reason about** — because the best platform is the one nobody has to think
+about.
 
-<h3> 📫 &nbsp;Contact Me</h3>
+- 🧱 **Platform thinking** — reusable components over one-off solutions
+- 🔁 **Reliability first** — retries, timeouts, and idempotency as defaults
+- 📦 **Clear interfaces** — between services, teams, and data
+- 🚨 **Observable by design** — if it can fail, it should say so loudly
 
-- Email:&nbsp;
-  [![Email](https://img.shields.io/badge/-julio.contreras0429%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:julio.contreras0429@gmail.com)
-- LinkedIn:&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/-Julio%20Contreras-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/TU_HANDLE)
+</samp>
+
+---
+
+<!-- GITHUB STATS -->
+### <samp>▸ GitHub History</samp>
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&bg_color=0B1220&title_color=F59E0B&icon_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="GitHub stats" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&bg_color=0B1220&title_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="Top languages" />
+
+</div>
+
+---
+
+<!-- STACK -->
+### <samp>▸ Stack</samp>
+
+<div align="center">
+
+**☁️ Cloud**
+<br>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+
+<br><br>
+
+**🔄 Orchestration & Transformation**
+<br>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Dataform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+
+<br><br>
+
+**🛢 Databases**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AlloyDB-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
+
+<br><br>
+
+**⚙️ Code & Delivery**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+</div>
+
+---
+
+<!-- CURRENTLY EXPLORING -->
+### <samp>▸ Currently exploring</samp>
+
+<samp>
+
+- 🏗 **Terraform** — bringing infrastructure under version control
+- ✅ **Data quality** — making validation a first-class concern
+- 🔗 **Lineage** — understanding how data flows end to end
+- 📈 **Observability** — going beyond logs and metrics
+
+</samp>
+
+---
+
+<div align="center">
+
+<br>
+
+<sub><i>Building things that are boring to operate and easy to reason about.</i></sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=F59E0B" alt="Profile views" />
+
+</div>
