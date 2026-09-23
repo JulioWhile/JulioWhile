@@ -5,19 +5,29 @@
 
 <br>
 
+<img src="./assets/avatar.png" width="90" alt="Julio Contreras" style="border-radius:50%;" />
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/julio-contreras-islas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:julio.contreras0429@gmail.com">
-  <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=FF7A1A" alt="Email" />
 </a>&nbsp;
 <a href="https://github.com/JulioWhile">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FF7A1A" alt="GitHub" />
 </a>
 
 </div>
 
----
+<br>
+
+<div align="center">
+<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
+</div>
+
+<br>
 
 <!-- ABOUT ME -->
 ### <samp>▸ About</samp>
@@ -41,20 +51,32 @@ about.
 
 </samp>
 
----
+<br>
+
+<div align="center">
+<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
+</div>
+
+<br>
 
 <!-- GITHUB STATS -->
 ### <samp>▸ GitHub History</samp>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioWhile&show_icons=true&theme=dark&bg_color=0B1220&title_color=F59E0B&icon_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="GitHub stats" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioWhile&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&icon_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="GitHub stats" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioWhile&layout=compact&theme=dark&bg_color=0B1220&title_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="Top languages" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioWhile&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="Top languages" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
+</div>
+
+<br>
 
 <!-- STACK -->
 ### <samp>▸ Stack</samp>
@@ -63,64 +85,75 @@ about.
 
 **☁️ Cloud**
 <br>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/BigQuery-181717?style=for-the-badge&logo=googlebigquery&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Cloud%20Run-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Cloud%20Functions-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Pub%2FSub-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Cloud%20Storage-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
 
 <br><br>
 
 **🔄 Orchestration & Transformation**
 <br>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Dataform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-181717?style=for-the-badge&logo=apacheairflow&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Dataform-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=FF7A1A" />
 
 <br><br>
 
 **🛢 Databases**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/AlloyDB-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/AlloyDB-181717?style=for-the-badge&logo=googlecloud&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Redis-181717?style=for-the-badge&logo=redis&logoColor=FF7A1A" />
 
 <br><br>
 
 **⚙️ Code & Delivery**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=FF7A1A" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=FF7A1A" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
+</div>
+
+<br>
 
 <!-- CURRENTLY EXPLORING -->
 ### <samp>▸ Currently exploring</samp>
 
 <samp>
 
-- 🏗 **Terraform** — bringing infrastructure under version control
-- ✅ **Data quality** — making validation a first-class concern
-- 🔗 **Lineage** — understanding how data flows end to end
-- 📈 **Observability** — going beyond logs and metrics
+- 🏗 **Terraform** — infra as code instead of console clicks nobody remembers making
+- ✅ **Data quality** — treating validation as part of the pipeline, not an afterthought
+- 🔗 **Lineage** — tracing a field back to its source without archaeology
+- 📈 **Observability** — metrics and traces that explain *why*, not just *that* something broke
 
 </samp>
 
----
+<br>
 
 <div align="center">
+<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
+</div>
 
 <br>
+
+<div align="center">
 
 <sub><i>Building things that are boring to operate and easy to reason about.</i></sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JulioWhile&style=flat-square&color=F59E0B" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JulioWhile&style=for-the-badge&color=FF7A1A&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
