@@ -1,0 +1,54 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Julio Contreras — Data Platform Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Acento izquierdo -->
+  <rect x="0" y="0" width="6" height="300" fill="#F59E0B"/>
+
+  <!-- Nombre -->
+  <text x="70" y="130"
+        font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="68" font-weight="700"
+        fill="#FEF3C7" letter-spacing="-1">
+    Julio Contreras
+  </text>
+
+  <!-- Línea acento -->
+  <rect x="72" y="155" width="120" height="4" fill="#F59E0B" rx="2"/>
+
+  <!-- Tagline -->
+  <text x="72" y="200"
+        font-family="'Segoe UI', system-ui, sans-serif"
+        font-size="24" font-weight="400"
+        fill="#94A3B8" letter-spacing="0.5">
+    Data Platform Engineer · GCP · Contract-driven systems
+  </text>
+
+  <!-- Sub-tagline monoespaciada -->
+  <text x="72" y="245"
+        font-family="'JetBrains Mono', 'Courier New', monospace"
+        font-size="15"
+        fill="#64748B" letter-spacing="0.5">
+    ── bigquery · dataform · alloydb · pub/sub · airflow ──
+  </text>
+
+  <!-- Decoración derecha -->
+  <g opacity="0.06">
+    <text x="1000" y="220"
+          font-family="'JetBrains Mono', monospace"
+          font-size="200" font-weight="700"
+          fill="#F59E0B">
+      {}
+    </text>
+  </g>
+</svg>
