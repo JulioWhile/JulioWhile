@@ -5,13 +5,13 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/TU_HANDLE">
+<a href="https://www.linkedin.com/in/julio-contreras-islas">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:julio.contreras0429@gmail.com">
   <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>&nbsp;
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/JulioWhile">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -48,9 +48,9 @@ about.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&bg_color=0B1220&title_color=F59E0B&icon_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="GitHub stats" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioWhile&show_icons=true&theme=dark&bg_color=0B1220&title_color=F59E0B&icon_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="GitHub stats" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&bg_color=0B1220&title_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="Top languages" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioWhile&layout=compact&theme=dark&bg_color=0B1220&title_color=F59E0B&text_color=FEF3C7&border_color=1E293B" alt="Top languages" />
 
 </div>
 
@@ -76,7 +76,6 @@ about.
 <br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Dataform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
 
 <br><br>
 
@@ -85,7 +84,6 @@ about.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/AlloyDB-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" />
 
 <br><br>
 
@@ -123,6 +121,6 @@ about.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=F59E0B" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JulioWhile&style=flat-square&color=F59E0B" alt="Profile views" />
 
 </div>
