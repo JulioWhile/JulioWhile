@@ -1,53 +1,74 @@
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Julio Contreras — Data Platform Engineer">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E293B"/>
-      <stop offset="100%" stop-color="#0B1220"/>
+      <stop offset="0%" stop-color="#0F0F0F"/>
+      <stop offset="100%" stop-color="#1A1A1A"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.4"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2A2A2A" stroke-width="1" opacity="0.6"/>
     </pattern>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7A1A"/>
+      <stop offset="100%" stop-color="#FF5A00"/>
+    </linearGradient>
   </defs>
 
+  <!-- Fondo -->
   <rect width="1200" height="300" fill="url(#bg)"/>
   <rect width="1200" height="300" fill="url(#grid)"/>
 
-  <!-- Acento izquierdo -->
-  <rect x="0" y="0" width="6" height="300" fill="#F59E0B"/>
+  <!-- Formas geométricas de esquina (como en el avatar) -->
+  <g opacity="0.5">
+    <polygon points="0,0 180,0 120,60 0,60" fill="#2A2A2A"/>
+    <polygon points="1200,0 1020,0 1080,60 1200,60" fill="#2A2A2A"/>
+    <polygon points="0,300 180,300 120,240 0,240" fill="#2A2A2A"/>
+    <polygon points="1200,300 1020,300 1080,240 1200,240" fill="#2A2A2A"/>
+  </g>
+
+  <!-- Acento diagonal izquierdo (naranja) -->
+  <polygon points="0,0 90,0 40,50 0,50" fill="#FF7A1A" opacity="0.9"/>
+  <polygon points="0,250 40,250 90,300 0,300" fill="#FF7A1A" opacity="0.9"/>
+
+  <!-- Acento diagonal derecho (naranja) -->
+  <polygon points="1200,0 1110,0 1160,50 1200,50" fill="#FF7A1A" opacity="0.9"/>
+  <polygon points="1200,250 1160,250 1110,300 1200,300" fill="#FF7A1A" opacity="0.9"/>
+
+  <!-- Línea acento vertical izquierda -->
+  <rect x="0" y="70" width="4" height="160" fill="url(#accentLine)"/>
 
   <!-- Nombre -->
-  <text x="70" y="130"
+  <text x="80" y="135"
         font-family="'Segoe UI', system-ui, sans-serif"
         font-size="68" font-weight="700"
-        fill="#FEF3C7" letter-spacing="-1">
+        fill="#F5F0E8" letter-spacing="-1">
     Julio Contreras
   </text>
 
-  <!-- Línea acento -->
-  <rect x="72" y="155" width="120" height="4" fill="#F59E0B" rx="2"/>
+  <!-- Línea acento bajo nombre -->
+  <rect x="82" y="160" width="120" height="4" fill="#FF7A1A" rx="2"/>
 
   <!-- Tagline -->
-  <text x="72" y="200"
+  <text x="82" y="205"
         font-family="'Segoe UI', system-ui, sans-serif"
         font-size="24" font-weight="400"
-        fill="#94A3B8" letter-spacing="0.5">
-    Data Platform Engineer · GCP · Contract-driven systems
+        fill="#A8A8A8" letter-spacing="0.5">
+    Data Platform Engineer · GCP · Building reliable data systems
   </text>
 
   <!-- Sub-tagline monoespaciada -->
-  <text x="72" y="245"
+  <text x="82" y="250"
         font-family="'JetBrains Mono', 'Courier New', monospace"
         font-size="15"
-        fill="#64748B" letter-spacing="0.5">
-    ── bigquery · dataform · alloydb · pub/sub · airflow ──
+        fill="#7A7A7A" letter-spacing="0.5">
+    ── python · bigquery · dataform · airflow · alloydb · pub/sub ──
   </text>
 
   <!-- Decoración derecha -->
-  <g opacity="0.06">
+  <g opacity="0.1">
     <text x="1000" y="220"
           font-family="'JetBrains Mono', monospace"
           font-size="200" font-weight="700"
-          fill="#F59E0B">
+          fill="#FF7A1A">
       {}
     </text>
   </g>
