@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/julio-contreras-islas">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=FF7A1A" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:julio.contreras0429@gmail.com">
   <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=FF7A1A" alt="Email" />
