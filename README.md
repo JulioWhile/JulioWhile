@@ -3,8 +3,6 @@
 
 <img src="./assets/header.svg" alt="Julio Contreras — Data Platform Engineer" width="100%">
 
-<img src="./assets/avatar.png" width="90" alt="Julio Contreras" style="border-radius:50%;margin-top:12px;" />
-
 <br>
 
 <a href="https://www.linkedin.com/in/julio-contreras-islas">
@@ -52,8 +50,8 @@ about.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulioWhile&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&icon_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="GitHub stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioWhile&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="Top languages" />
+<img height="160em" src="https://github-stats-extended.vercel.app/api?username=JulioWhile&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&icon_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="GitHub stats" />
+<img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JulioWhile&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FF7A1A&text_color=E8E4DC&border_color=2C2C2C" alt="Top languages" />
 
 </div>
 
@@ -96,22 +94,6 @@ about.
 <img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=FF7A1A" />
 
 </div>
-
-<div align="center">
-<samp>── ⌁ ────────────────────────────────────────────── ⌁ ──</samp>
-</div>
-
-<!-- CURRENTLY EXPLORING -->
-### <samp>▸ Currently exploring</samp>
-
-<samp>
-
-- 🏗 **Terraform** — infra as code instead of console clicks nobody remembers making
-- ✅ **Data quality** — treating validation as part of the pipeline, not an afterthought
-- 🔗 **Lineage** — tracing a field back to its source without archaeology
-- 📈 **Observability** — metrics and traces that explain *why*, not just *that* something broke
-
-</samp>
 
 <div align="center">
 
